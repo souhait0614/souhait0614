@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## Submarin関連の制作物
+## Submarin related productions
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Submarinonline&repo=Stylemarin&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true)](https://github.com/Submarinonline/Stylemarin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Submarinonline&repo=SubmarinOfficialWeb&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true)](https://github.com/Submarinonline/SubmarinOfficialWeb)
