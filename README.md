@@ -13,8 +13,8 @@ htmlやらcssやらjsやらをこねくり回してます
 
 ## Github Stats
 <a href="https://github.com/hakunagi">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&text_color=4c71f2&bg_color=00000000" />
 </a>
 <a href="https://github.com/hakunagi?tab=repositories">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&text_color=4c71f2&bg_color=00000000" />
 </a>
