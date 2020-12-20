@@ -9,12 +9,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Submarinonline&repo=Stylemarin&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true)](https://github.com/Submarinonline/Stylemarin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Submarinonline&repo=SubmarinOfficialWeb&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true)](https://github.com/Submarinonline/SubmarinOfficialWeb)
-## 自己紹介
-趣味でなんか色々やってる人
-
-htmlやらcssやらjsやらをこねくり回してます
 
 ## Github Stats
+
 <a href="https://github.com/hakunagi">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true" />
 </a>
