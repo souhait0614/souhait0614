@@ -9,9 +9,7 @@
 
 htmlやらcssやらjsやらをこねくり回してます
 
-## 主な使用言語
-
-## Github-Readme-Stats
+## Github Stats
 <a href="https://github.com/hakunagi">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true" />
 </a>
