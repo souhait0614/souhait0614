@@ -1,11 +1,15 @@
-# I love
+<div align="center">
+  <h1>I love</h1>
+  <img src="https://user-images.githubusercontent.com/62732828/102708353-d72e1e80-42e5-11eb-834b-c0a029b8f120.png" />
+</div>
 
-![submarin](https://user-images.githubusercontent.com/62732828/102708353-d72e1e80-42e5-11eb-834b-c0a029b8f120.png)
-</a>
 
 ## 自己紹介
 趣味でなんか色々やってる人
+
 htmlやらcssやらjsやらをこねくり回してます
+
+## 主な使用言語
 
 ## Github-Readme-Stats
 <a href="https://github.com/hakunagi">
