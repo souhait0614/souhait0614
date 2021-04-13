@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I love</h1>
+  <h1 style="color:#7f7f7f;">I love</h1>
   <a href="https://github.com/Submarinonline">
     <img src="https://user-images.githubusercontent.com/62732828/114540846-f97eea00-9c90-11eb-915a-ce2bd582c388.png" />
   </a>
