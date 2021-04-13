@@ -5,16 +5,11 @@
   </a>
 </div>
 
-## Submarin related productions
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Submarinonline&repo=Stylemarin&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true)](https://github.com/Submarinonline/Stylemarin)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Submarinonline&repo=SubmarinOfficialWeb&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true)](https://github.com/Submarinonline/SubmarinOfficialWeb)
-
 ## Github Stats
 
 <a href="https://github.com/hakunagi">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=transpalent&hide_border=true" />
 </a>
 <a href="https://github.com/hakunagi?tab=repositories">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&title_color=FCFCFC&icon_color=FCFCFC&text_color=FCFCFC&bg_color=41ADEF&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&title_color=000000&icon_color=000000&text_color=000000&bg_color=transpalent&hide_border=true" />
 </a>
