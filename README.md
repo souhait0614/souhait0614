@@ -10,3 +10,32 @@
 <a href="https://github.com/hakunagi?tab=repositories">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
 </a>
+
+## About me
+趣味でHTMLやらCSSやらJavaScriptやらを書いてる人です。JavaScriptしかプログラミングできません。英語も出来ません。
+
+全部Linux上で開発しているのでWindowsやMacOSでの動作テストは全くしてません。(WebサイトかNodeなので問題なく動くと思うけど)
+
+## Development environment
+化石PCで開発してます
+
+<table>
+  <tbody>
+    <tr>
+      <td>CPU</td>
+      <td>Intel i3-2100 (4) @ 3.100GHz</td>
+    </tr>
+    <tr>
+      <td>GPU</td>
+      <td>NVIDIA GeForce GT 630</td>
+    </tr>
+    <tr>
+      <td>RAM</td>
+      <td>DDR3 4GB*2</td>
+    </tr>
+    <tr>
+      <td>OS</td>
+      <td>Manjaro Linux x86_64</td>
+    </tr>
+  </tbody>
+</table>
