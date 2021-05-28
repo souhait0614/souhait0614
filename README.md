@@ -20,18 +20,16 @@
 化石PCで開発してます
 
 <table>
-  <tbody>
-    <tr>
-      <td>CPU</td>
-      <td>Intel i3-2100 (4) @ 3.100GHz</td>
-      <td>GPU</td>
-      <td>NVIDIA GeForce GT 630</td>
-    </tr>
-    <tr>
-      <td>RAM</td>
-      <td>DDR3 4GB*2</td>
-      <td>OS</td>
-      <td>Manjaro Linux x86_64</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th scope="row">CPU</th>
+    <td>Intel i3-2100 (4) @ 3.100GHz</td>
+    <th scope="row">GPU</th>
+    <td>NVIDIA GeForce GT 630</td>
+  </tr>
+  <tr>
+    <th scope="row">RAM</th>
+    <td>DDR3 4GB*2</td>
+    <th scope="row">OS</th>
+    <td>Manjaro Linux x86_64</td>
+  </tr>
 </table>
