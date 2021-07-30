@@ -21,15 +21,15 @@
 
 <table>
   <tr>
-    <th scope="row">CPU</th>
+    <th>CPU</th>
     <td>Intel i3-2100 (4) @ 3.100GHz</td>
-    <th scope="row">GPU</th>
+    <th>GPU</th>
     <td>NVIDIA GeForce GT 630</td>
   </tr>
   <tr>
-    <th scope="row">RAM</th>
+    <th>RAM</th>
     <td>DDR3 4GB*2</td>
-    <th scope="row">OS</th>
+    <th>OS</th>
     <td>Manjaro Linux x86_64</td>
   </tr>
 </table>
