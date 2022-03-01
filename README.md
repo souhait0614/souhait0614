@@ -1,18 +1,12 @@
-<div>
-<a href="https://github.com/hakunagi">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&include_all_commits=true&hide=prs&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja" />
-</a>
-<a href="https://github.com/hakunagi?tab=repositories">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&layout=compact&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja" />
-</a>
-</div>
-## About me
-趣味でHTMLやらCSSやらJavaScriptやらを書いてる人です。JavaScriptしかプログラミングできません。英語も出来ません。
+# hakunagi
 
-全部Linux上で開発しているのでWindowsやMacOSでの動作テストは全くしてません。(WebサイトかNodeなので問題なく動くと思うけど)
+## 寂しい自己紹介
 
-## Development environment
-化石PCで開発してます
+趣味で HTML やら CSS やら SCSS やら JavaScript やら TypeScript やら Svelte やらを書いてる人です。英語出来ません。
+
+全部 Linux 上で開発しているのでそれ以外の OS での動作テストは全くしてません。(Web サイトか Node なので問題なく動くと思うけど)
+
+## 古臭い開発環境
 
 <table>
   <tr>
@@ -28,3 +22,14 @@
     <td>Manjaro Linux x86_64</td>
   </tr>
 </table>
+
+## 虚しいステータス
+
+<div>
+  <a href="https://github.com/hakunagi">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&include_all_commits=true&hide=contribs&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja"/>
+  </a>
+  <a href="https://github.com/hakunagi?tab=repositories">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&layout=compact&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja"/>
+  </a>
+</div>
