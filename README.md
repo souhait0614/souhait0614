@@ -1,16 +1,11 @@
-<div align="center">
-  <a href="https://github.com/Submarinonline">
-    <img src="https://user-images.githubusercontent.com/62732828/114540846-f97eea00-9c90-11eb-915a-ce2bd582c388.png" />
-  </a>
-</div>
-
+<div>
 <a href="https://github.com/hakunagi">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&include_all_commits=true&hide=prs&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja" />
 </a>
 <a href="https://github.com/hakunagi?tab=repositories">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f&bg_color=00000000&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&layout=compact&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja" />
 </a>
-
+</div>
 ## About me
 趣味でHTMLやらCSSやらJavaScriptやらを書いてる人です。JavaScriptしかプログラミングできません。英語も出来ません。
 
