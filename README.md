@@ -2,7 +2,7 @@
 
 ## 寂しい自己紹介
 
-趣味で HTML やら CSS やら SCSS やら JavaScript やら TypeScript やら Svelte やらを書いてる人です。英語出来ません。
+趣味で HTML やら CSS やら SCSS やら JavaScript やら TypeScript やら Svelte やらを書いてる人です。英語も数学も出来ません。
 
 全部 Linux 上で開発しているのでそれ以外の OS での動作テストは全くしてません。(Web サイトか Node なので問題なく動くと思うけど)
 
