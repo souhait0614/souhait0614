@@ -2,22 +2,22 @@
 
 ## 寂しい自己紹介
 
-趣味で HTML やら CSS やら SCSS やら JavaScript やら TypeScript やら Svelte やらを書いてる人です。英語も数学も出来ません。
+趣味で HTML やら CSS やら SCSS やら JavaScript やら TypeScript やら Svelte やら Solid やらを書いてる人です。英語も数学も出来ません。
 
 全部 Linux 上で開発しているのでそれ以外の OS での動作テストは全くしてません。(Web サイトか Node なので問題なく動くと思うけど)
 
-## 古臭い開発環境
+## 無駄に新しい開発環境
 
 <table>
   <tr>
     <th>CPU</th>
-    <td>Intel i3-2100 (4) @ 3.100GHz</td>
+    <td>12th Gen Intel i5-12400 (12) @ 5.600GHz</td>
     <th>GPU</th>
-    <td>NVIDIA GeForce GT 630</td>
+    <td>NVIDIA GeForce GTX 1650</td>
   </tr>
   <tr>
     <th>RAM</th>
-    <td>DDR3 4GB*2</td>
+    <td>DDR4 8GB*2</td>
     <th>OS</th>
     <td>Manjaro Linux x86_64</td>
   </tr>
