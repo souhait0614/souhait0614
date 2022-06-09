@@ -27,9 +27,9 @@
 
 <div>
   <a href="https://github.com/hakunagi">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=hakunagi&show_icons=true&include_all_commits=true&hide=contribs&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=souhait0614&show_icons=true&include_all_commits=true&hide=contribs&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja"/>
   </a>
   <a href="https://github.com/hakunagi?tab=repositories">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakunagi&layout=compact&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souhait0614&layout=compact&title_color=8D7AE6&icon_color=8D7AE6&text_color=8D7AE6&bg_color=8D7AE61f&border_color=8D7AE6&locale=ja"/>
   </a>
 </div>
